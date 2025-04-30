@@ -1,0 +1,59 @@
+*{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    
+  background-color: rgb(0, 0, 0);
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+    flex-direction: column;
+}
+#logo{
+    width: 20vw;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#name {
+    color: rgb(216, 82, 136);
+    font-size: 50px;
+}
+#va {
+    color: rgb(95, 194, 183);
+    font-size: 50px;
+}
+#voice{
+    width: 500px;
+    display: none;
+}
+#btn{
+  width: 20%;
+  background: linear-gradient(to right,rgb(89, 143, 144),rgb(203, 44, 115));
+  padding: 10px;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 2px 2px 10px rgb(89, 143, 144),2px 2px 10px rgb(203, 44, 115);
+    border: none;
+    transition: 0.5s;
+    cursor: pointer;
+    
+}
+#btn:hover{
+    box-shadow: 2px 2px 10px rgb(89, 143, 144),2px 2px 10px rgb(203, 44, 115);
+    letter-spacing: 3px;
+}
+
+
