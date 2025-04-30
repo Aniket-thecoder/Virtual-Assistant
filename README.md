@@ -1,1 +1,2 @@
 # Virtual-Assistant
+This project is a simple yet functional virtual assistant built using HTML, CSS, and JavaScript. It features an interactive user interface and supports voice commands, enabling users to perform actions using speech recognition. The assistant responds to voice inputs and can execute basic tasks, making it a great starting point for learning about browser APIs, speech recognition, and dynamic web interfaces.
